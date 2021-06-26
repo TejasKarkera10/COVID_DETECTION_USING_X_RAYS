@@ -50,4 +50,4 @@
 
 * Feature differences between normal and covid X-rays can be visualised in a better way using 
   Grad-cam based techniques. 
-* Creating U-I interface for Predictive analysis of Query Images. 
+* Creating U-I for Predictive analysis of Query Images. 
